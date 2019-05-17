@@ -1,1 +1,1 @@
-# Kinppy-web
+# Kinppy - Family Organizer
